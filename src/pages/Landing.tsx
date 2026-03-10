@@ -70,7 +70,7 @@ const Landing = () => {
       <section className="border-b border-border/50 bg-card/50">
         <div className="container grid grid-cols-2 gap-6 py-12 md:grid-cols-4">
           {[
-            { value: "10+", label: "Verified Startups", icon: Zap },
+            { value: "20+", label: "Verified Startups", icon: Zap },
             { value: "50+", label: "MIT Candidates", icon: Users },
             { value: "92%", label: "Avg Match Score", icon: Target },
             { value: "<48h", label: "Response Time", icon: Clock },
